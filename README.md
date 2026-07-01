@@ -100,18 +100,18 @@ Developed a stock analysis website integrating financial data APIs and AI-powere
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Natthakit64&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Natthakit64&show_icons=true&theme=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natthakit64&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natthakit64&layout=compact&theme=transparent" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: Coming Soon
+* LinkedIn: https://www.linkedin.com/in/natthakit-salakkai/
 * Portfolio Website: Coming Soon
 
 ---
